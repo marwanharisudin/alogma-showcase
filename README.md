@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://alogma-logic-adventure.vercel.app"><img src="assets/banner.png" alt="ALOGMA — a game by Perajin Digital" width="100%"></a>
+</p>
+
 # ALOGMA Logic Adventure
 
 **Main. Pikir. Temukan.** A browser logic puzzle game that introduces children to planning, sequencing and problem solving, which are the first steps of computational thinking.
